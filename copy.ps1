@@ -1,1 +1,1 @@
-cp -r ../PersonalWebsite/dist/* ./
+Copy-Item ../PersonalWebsite/dist/* ./ -Recurse -Force
